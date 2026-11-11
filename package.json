@@ -1,0 +1,14 @@
+{
+  "name": "codealpha-social-media",
+  "version": "1.0.0",
+  "description": "CodeAlpha Task 2: Mini social media platform (Express + MongoDB)",
+  "main": "server.js",
+  "scripts": { "start": "node server.js" },
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "jsonwebtoken": "^9.0.2",
+    "mongoose": "^8.4.0"
+  }
+}
